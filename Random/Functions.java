@@ -5,7 +5,6 @@ public class Functions {
 
     public static void myName(String name,int age){
         System.out.println("Name : "+name + " and Age : " + age);
-        return;
     }
 
     public static void main (String[] args){
