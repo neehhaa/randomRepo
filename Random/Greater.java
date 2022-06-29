@@ -1,7 +1,5 @@
 import java.util.Scanner;
-
 public class Greater {
-
     public int greaterNum(int num1, int num2){
         int great = 0;
         if(num1>num2){
